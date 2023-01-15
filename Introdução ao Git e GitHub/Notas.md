@@ -22,7 +22,7 @@ Git -> Criado em 2005 por Linus Torvalds
  - Commit
 ## SHA
  - Secure Hash Algorithm
- A encriptação gera conjunto de caracteres identificador de 40 dígitos (Identificar os arquivos de forma segura e rápida).
+ - A encriptação gera conjunto de caracteres identificador de 40 dígitos (Identificar os arquivos de forma segura e rápida).
 
 ## Primeiros comandos com Git
  - Git init:Cria repositório
